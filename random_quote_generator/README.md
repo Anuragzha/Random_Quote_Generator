@@ -43,13 +43,7 @@ Includes a wide range of categories such as **Motivational 💪, Love ❤️, Fu
 
 ---
 
-## 📸 Screenshots
 
-| Home Screen | Quote Example | Category UI |
-|--------------|----------------|--------------|
-| ![Screenshot1](assets/screenshots/1.png) | ![Screenshot2](assets/screenshots/2.png) | ![Screenshot3](assets/screenshots/3.png) |
-
-*(Replace images above with your actual app screenshots)*
 
 ---
 
@@ -60,18 +54,21 @@ Includes a wide range of categories such as **Motivational 💪, Love ❤️, Fu
    git clone https://github.com/your-username/random-quote-generator.git
 
 
-2. **Navigate to the project directory**
+## Navigate to the project directory
+ ```bash
     cd random-quote-generator
-   
-4. **Install Dependency**
-      flutter pub get
 
-5. **Run the app**
-6.   flutter run
+## ***Install Dependency***
+ ```bash
+flutter pub get
+
+## 5. Run the app
+ ```bash
+ flutter run
 
 
 
-**Author**
-**Anurag Kumar Jha**
- Junior Flutter Developer
- anuragkumarjha.com.np
+## Author
+## Anurag Kumar Jha
+## Junior Flutter Developer
+## anuragkumarjha.com.np
