@@ -18,7 +18,7 @@ This project demonstrates the use of Flutter widgets, state management, and a cl
 
 ## Folder Structure
 
-lib/
+**lib/
 │
 ├── main.dart
 ├── models/
@@ -28,26 +28,27 @@ lib/
 ├── widgets/
 │ └── quote_card.dart
 └── utils/
-└── quote_list.dart
+└── quote_list.dart**
 
 
-Installation
+## Installation
 
-Clone this repository:
+## Clone this repository:
 
 flutter pub get
 
-Run the app:
+## Run the app:
 
     flutter run
 
-App Icon
+## App Icon
 
 The app icon is configured using the flutter_launcher_icons package.
 To regenerate the icon, run:
 flutter pub run flutter_launcher_icons
 
-Author
+## Author
 
 Developed by Anurag Kumar Jha
-Visit: anuragkumarjha.com.np
+## Visit:
+anuragkumarjha.com.np
